@@ -17,6 +17,7 @@ import AppLockState
 import NotificationsPresentationData
 import RangeSet
 import ConvertOpusToAAC
+import SwiftUI
 
 private let queue = Queue()
 
